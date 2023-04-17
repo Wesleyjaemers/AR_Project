@@ -1,4 +1,4 @@
-# AR_Project
+# AR_Showcase_Project
 AR Test Project
 
 This project contains a mobile app which showcases some of the features available with Augmented Reality.
