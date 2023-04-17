@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-**VISUAL STUDIO**
+##VISUAL STUDIO
 # User-specific files
 *.rsuser
 *.suo
@@ -351,7 +351,9 @@ MigrationBackup/
 .ionide/
 
 
-**ANDROID**
+
+##ANDROID
+
 # Built application files
 *.apk
 *.aar
@@ -439,7 +441,9 @@ lint/tmp/
 # lint/reports/
 
 
-**NODE**
+
+##NODE
+
 # Logs
 logs
 *.log
